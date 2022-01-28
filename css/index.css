@@ -1,0 +1,71 @@
+body{
+    font-size: 24px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(../img/1620906414_26-phonoteka_org-p-fon-avtotematika-29.jpg);
+}
+.wrapper{
+    width: 1300px;
+    margin: 0 auto;
+}
+.header{
+    font-family: 'Rubik Mono One', sans-serif;
+    font-size: 23px;
+    text-align: right;
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row-reverse;
+}
+.logo{
+    width: 50%;
+    margin-right: auto;
+}
+.nav-link{
+    text-decoration: none;
+    margin-left: 29px;
+    color: white;
+}
+.nav-link:hover{
+    color: #5a0212;
+}
+.nav{
+    text-align: left;
+    margin-top: 70px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.new-year{
+    width: 100%;
+    margin-top: 100px;
+}
+.maps{
+    margin-top: 50px;
+}
+.main-wrapper h2{
+    text-align: center;
+    color: white;
+}
+.photo{
+    display: flex;
+    width: 300px;
+    height: 218px;
+    margin-top: 50px;
+}
+.car{
+    margin-left: 25px;
+}
+.photo-two{
+    display: flex;
+    width: 300px;
+    height: 230px;
+    margin-top: 50px;
+}
+p{
+    color: white;
+}
+.h2{
+    color: white;
+}
+.footer{
+    color: white;
+}
