@@ -1,0 +1,64 @@
+body{
+    font-size: 24px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(../img/1613515788_16-p-fon-dlya-prezentatsii-na-temu-izobreteniya-21.jpg);
+}
+.container{
+    max-width: 1300px;
+    margin: 0 auto;
+}
+.header{
+    font-family: 'Rubik Mono One', sans-serif;
+    font-size: 23px;
+    text-align: right;
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row-reverse;
+}
+.logo{
+    width: 50%;
+    margin-right: auto;
+}
+.nav-link{
+    text-decoration: none;
+    margin-left: 29px;
+    color: white;
+}
+.nav-link:hover{
+    color: #5a0212;
+}
+.nav{
+    text-align: left;
+    margin-top: 70px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.delivery li{
+    font-weight: 600;
+    font-size: 30px;
+}
+.bay p{
+    text-align: justify;
+}
+.payment{
+   
+    align-items: center;
+    
+}
+.wan{
+    list-style-image:url(../img/mastercard.svg);
+    width: 100%;
+}
+.two{
+    list-style-image:url(../img/visa.svg);
+    width: 100%;
+}
+.three{
+    list-style-image:url(../img/mir-logo.png);
+    width: 100%;
+}
+.four{
+    list-style-image:url(../img/jcb-logo.svg);
+    width: 100%;
+}

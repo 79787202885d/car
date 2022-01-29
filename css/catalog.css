@@ -1,0 +1,80 @@
+body{
+    font-size: 24px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(../img/1620702283_7-phonoteka_org-p-fon-dlya-vizitki-avtoservisa-8.jpg);
+}
+.container{
+    max-width: 1300px;
+    margin: 0 auto;
+}
+.header{
+    font-family: 'Rubik Mono One', sans-serif;
+    font-size: 23px;
+    text-align: right;
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row-reverse;
+}
+.logo{
+    width: 50%;
+    margin-right: auto;
+}
+.nav-link{
+    text-decoration: none;
+    margin-left: 29px;
+    color: white;
+}
+.nav-link:hover{
+    color: #5a0212;
+}
+.nav{
+    text-align: left;
+    margin-top: 70px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.collapsible {
+    margin-top: 50px;
+    background-color: #eee;
+    color: #444;
+    padding: 18px;
+    width: 100%;
+    border: none;
+    font-size: 30px;
+    opacity: 75%;
+    text-align: center;
+  }
+  a{
+      text-decoration: none;
+      color: white;
+  }
+  .content{
+    display: flex;
+  }
+  .product{
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    margin-top: 18px;
+}
+.content-two{
+  display: flex;
+}
+.product h1{
+    background-color: white;
+    opacity: 0.7;
+}
+button {
+    padding: 8px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+}
+.footer{
+    color: white;
+}
